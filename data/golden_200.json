@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "tweet_id": "65994",
+    "conversation_id": "",
+    "message": "@SpotifyCares What do you mean by “DM”?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131099 Thanks! A DM (or \"direct message\") is where you can send a private message. Also, we'd suggest you delete your other tweet as it contains your private information. Can you send us a DM instead? Keep us posted /MS https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 2,
+    "tweet_id": "10718",
+    "conversation_id": "",
+    "message": "@SpotifyCares Stop showing me diaper ads. I don't have a baby.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117978 Hey! Sorry about that. We'll pass the feedback on to the right people /RB"
+  },
+  {
+    "id": 3,
+    "tweet_id": "2861",
+    "conversation_id": "",
+    "message": "@116382 Booooourns. @SpotifyCares, could you please help out with this one?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116380 @116382 Hey there! We'll get this reported. Great detective work! https://t.co/LpsmyUtme0 /MJ"
+  },
+  {
+    "id": 4,
+    "tweet_id": "38963",
+    "conversation_id": "",
+    "message": "@115888 when my playlist runs out you should know that the worst possible \"like this\" music to play next is Morrissey. It is not like this.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124508 Hey! Sorry to hear about that. Not to worry, we're taking on all feedback about this /JP"
+  },
+  {
+    "id": 5,
+    "tweet_id": "37701",
+    "conversation_id": "",
+    "message": "@SpotifyCares can you please add a feature to only view releases from artist you follow.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124188 Don't worry - we'll make sure to pass your feedback on to the relevant folks 😁 /SY"
+  },
+  {
+    "id": 6,
+    "tweet_id": "34755",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thank you! :)",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123541 No worries. If there's anything else, just give us a shout. Have a... https://t.co/FQulrDtFky 🙂 /AY"
+  },
+  {
+    "id": 7,
+    "tweet_id": "16205",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thank you. Will keep an eye on that.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@119558 You're welcome. Let us know if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv /NQ"
+  },
+  {
+    "id": 8,
+    "tweet_id": "9364",
+    "conversation_id": "",
+    "message": "@SpotifyCares Done - but disappointed this post has been running since 2012 and nothing has been done about it.  #GiveListenersTheChoice",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117672 1: Thanks for pitching in! Our team keeps a close eye on all submissions posted on our Community page."
+  },
+  {
+    "id": 9,
+    "tweet_id": "57562",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thank you for the support thoe",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129062 Thanks for the info! We're not yet available in Egypt. We'd suggest signing up in the link to get notified once we are /PB"
+  },
+  {
+    "id": 10,
+    "tweet_id": "8679",
+    "conversation_id": "",
+    "message": "@SpotifyCares No problems with iOS.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117526 Thanks! How about connecting to a different network? Let's see if that works /PC"
+  },
+  {
+    "id": 11,
+    "tweet_id": "61172",
+    "conversation_id": "",
+    "message": "@SpotifyCares So no, I haven't logged into the web player with incognito or private browsing",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130006 Gotcha. Try giving it another go using an incognito window of your browser to avoid any cache-related issues. Let us know how it goes /SY"
+  },
+  {
+    "id": 12,
+    "tweet_id": "48131",
+    "conversation_id": "",
+    "message": "@SpotifyCares Version 10.10.5 OSX Yoesmite. No changes to system. I own 3 Spotify accounts and no matter which is open, after a short while, it just goes",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126763 That's odd. Can you DM us your account's email address? We'll take a look under the hood /QI https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 13,
+    "tweet_id": "2933",
+    "conversation_id": "",
+    "message": "@SpotifyCares Over all connection, I get this notification from the phone as for loving in and out I did a fresh install, no luck!",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116387 Can you DM us your account's email address? We'll check things out /KC https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 14,
+    "tweet_id": "2875",
+    "conversation_id": "",
+    "message": "@SpotifyCares I'm using my facebook account as a method to log in.",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116386 We see. Could you DM us your Facebook profile's email address? We'll help out there /CG https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 15,
+    "tweet_id": "8697",
+    "conversation_id": "",
+    "message": "@SpotifyCares Checked the three dots and saw the download option and then my song appeared. It works.. but it feels hidden. Thank you for your interest :)",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117528 You're welcome! We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /KC"
+  },
+  {
+    "id": 16,
+    "tweet_id": "33428",
+    "conversation_id": "",
+    "message": "@SpotifyCares So can I not go back to the normal spotify cause I’m not really to fond of this version?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123395 We're afraid it's not possible to revert back to the older app version, but we appreciate your feedback. We'll pass it on to the team /NY"
+  },
+  {
+    "id": 17,
+    "tweet_id": "36727",
+    "conversation_id": "",
+    "message": "@SpotifyCares Why is this still an issue?\nhttps://t.co/prOxHJcRfo",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124010 Hey Michael! Can you let us know what device, operating system, and Spotify version you're using? We'll see what we can suggest /NS"
+  },
+  {
+    "id": 18,
+    "tweet_id": "54545",
+    "conversation_id": "",
+    "message": "@115888 how do I get my account to family pack please. Settings don’t show any upgrade options. Thank you 🙏🏾",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128359 Hey there! Could you DM us your account's username or email address? We'll take a look backstage /GU https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 19,
+    "tweet_id": "62427",
+    "conversation_id": "",
+    "message": "@SpotifyCares Tried reaching out to them in many different ways with no response :/",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130302 Our friends in Artist Support are the right folks to help with this. You can get in touch with them at https://t.co/p1wbtdELHu /AP https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 20,
+    "tweet_id": "2868",
+    "conversation_id": "",
+    "message": "@SpotifyCares I doubt it :/ but thank you for replying!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116384 You're welcome. Not to worry, we'll pass on your feedback to the right team. If you ever need us again, just say the word. We're always here for you /MT"
+  },
+  {
+    "id": 21,
+    "tweet_id": "58296",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thank ya for passing it along.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129239 No worries. Just give us a shout if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv 🙂 /MC"
+  },
+  {
+    "id": 22,
+    "tweet_id": "29608",
+    "conversation_id": "",
+    "message": "@SpotifyCares Hey! Here's what I'm currently using. No problem on my iPhone though, only on my iMac. Cheers! https://t.co/iGnEwvu03h",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@122505 Thanks. Can you try logging out &gt; restarting your device &gt; logging back in help? Let us know how it goes /RS"
+  },
+  {
+    "id": 23,
+    "tweet_id": "66024",
+    "conversation_id": "",
+    "message": "@SpotifyCares did you get my tweet re billing?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131104 Hey there! We're afraid we haven't received any. Do you mind sending it again through DM with your account's username or email address? We'll get to you right away /MS https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 24,
+    "tweet_id": "70694",
+    "conversation_id": "",
+    "message": "@SpotifyCares hello - iphone7, ios 11.0.3, spotify 8.4.28.1104, \n\nit is exactly the same issue raised on your help desk by someone else here - https://t.co/fpjMnrEIMN",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131856 We understand. Are you getting any error messages when it happens? Does logging out &gt; restarting the device &gt; logging back in help? /PL"
+  },
+  {
+    "id": 25,
+    "tweet_id": "48126",
+    "conversation_id": "",
+    "message": "@SpotifyCares Well technically it works. It only errors when you hit the search button",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126762 Hmm. Just to check, are you on a shared WiFi network? If not, restarting your router is worth a try. Keep us in the loop /GU"
+  },
+  {
+    "id": 26,
+    "tweet_id": "33431",
+    "conversation_id": "",
+    "message": "@SpotifyCares Can’t tell straight away, need to see the music behaviour for a bit. Will get back as soon as i know :)",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123396 Sounds like a plan! We'll be right here waiting for your update /KM"
+  },
+  {
+    "id": 27,
+    "tweet_id": "50894",
+    "conversation_id": "",
+    "message": "uhh so somehow i can’t even log into my spotify, but my failed log in attempt reactivated my facebook account? honestly what the fuck https://t.co/cNFUXpcJAF",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127424 Hey! Can you DM us your account's email address? We'll take a look backstage /K https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 28,
+    "tweet_id": "61167",
+    "conversation_id": "",
+    "message": "@SpotifyCares In the middle of down with the sickness.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130006 Thanks! Does it happen when you use the web player in an incognito or a private browsing window? /SY"
+  },
+  {
+    "id": 29,
+    "tweet_id": "38970",
+    "conversation_id": "",
+    "message": "@SpotifyCares https://t.co/tGbLK4aErF This is what Breezeblocks should sound like! Just to make your job easier.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124511 Hmm, everything looks good on our end. Can you tell us the country that your account is set to? /SY"
+  },
+  {
+    "id": 30,
+    "tweet_id": "862",
+    "conversation_id": "",
+    "message": "@SpotifyCares @115890 Groove Music quits &amp; redirect to Spotify. But the W10M App is a bugfest.. Any further Updates possible?",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@115889 Hey there! That doesn't sound good. What's happening exactly? Can you let us know the app version you're using? /PB"
+  },
+  {
+    "id": 31,
+    "tweet_id": "20541",
+    "conversation_id": "",
+    "message": "@SpotifyCares My company want to cooprate with spotify, who can i contact with for this business thing?   pls hurry up",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@120485 Hi there! We've just sent you a bit more info over DM /MA"
+  },
+  {
+    "id": 32,
+    "tweet_id": "70684",
+    "conversation_id": "",
+    "message": "@SpotifyCares I'll gladly translate it: @115888, please start developing for Linux again...",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131854 We don't offer official support for the version of the app for Linux, but here's how to install it: https://t.co/eXsWnXSQiQ /MA"
+  },
+  {
+    "id": 33,
+    "tweet_id": "44240",
+    "conversation_id": "",
+    "message": "for some reason i can’t get my local files on spotify to become available on my phone again like i don’t know what happened 😡",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125830 Hi there, that doesn't sound good! Can you let us know the device, operating system, and Spotify version you're rocking? We'll see what we can suggest /AK"
+  },
+  {
+    "id": 34,
+    "tweet_id": "67658",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thanks, I didn't know this was a thing!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131449 Sure thing! If you need us again, you know where to find us. Enjoy your music 🎧 /JN"
+  },
+  {
+    "id": 35,
+    "tweet_id": "18469",
+    "conversation_id": "",
+    "message": "@spotifycares wheres twicetagram by twice",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@120106 Hey! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /RH"
+  },
+  {
+    "id": 36,
+    "tweet_id": "33420",
+    "conversation_id": "",
+    "message": "@SpotifyCares Hi! When will you fix \"4 - Oops something went wrong, please try again.\" problem in managing family accounts?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123394 Hey! Can you DM us your account's email address? We'll see what we can suggest /CB https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 37,
+    "tweet_id": "43461",
+    "conversation_id": "",
+    "message": "@SpotifyCares Sure! It’s a concept album, so order is important. ☺️ Thanks! https://t.co/LRdM0G5fmo",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125642 Thanks. We'll get this reported. Great detective work! https://t.co/LpsmyUtme0 /PB"
+  },
+  {
+    "id": 38,
+    "tweet_id": "70696",
+    "conversation_id": "",
+    "message": "Why the heck does my @115888 now play me 20 seconds of a song I choose and then randomly put me on a random, shitty playlist? https://t.co/gOQ9r7fLfQ",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131856 Thanks for letting us know. Does this happen on WiFi, 3/4G, or both? Also, are you experiencing the same when using another device? /KM"
+  },
+  {
+    "id": 39,
+    "tweet_id": "8689",
+    "conversation_id": "",
+    "message": "@SpotifyCares not sure why the app has been slow to load and glitching music for the past couple months. Samsung galaxy s5",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117527 Hey there! Can you let us know what Android and Spotify versions you're running? We'll see what we can suggest /NS"
+  },
+  {
+    "id": 40,
+    "tweet_id": "45741",
+    "conversation_id": "",
+    "message": "@115888 they also made a shitty Italian playlist! why aren't you guys doing better in securing your premium paid subscribers' accounts? https://t.co/L6vkLFbcHl",
+    "intent": "account",
+    "should_escalate": true,
+    "reply_keywords": [],
+    "historical_reply": "@126139 Hey Jessie! Can you DM us your account's username and email address? We'll take a look backstage /SY https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 41,
+    "tweet_id": "8704",
+    "conversation_id": "",
+    "message": "@115888 why aren’t you available in India.. https://t.co/YUzA4qYDvv",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117529 Hey! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /CB"
+  },
+  {
+    "id": 42,
+    "tweet_id": "44425",
+    "conversation_id": "",
+    "message": "@SpotifyCares Hello, I've tried to tell my problem from the website https://t.co/CjnbQxnYv1 but until now I can't get my premium account back, I still can't logged in to my account :( @115888 @118266 @SpotifyCares",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125858 Thanks for the info. Can you DM us your account's email address? We'll take a look  backstage and see what we can suggest /NY https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 43,
+    "tweet_id": "44302",
+    "conversation_id": "",
+    "message": "@SpotifyCares I tweeted you earlier today and have not heard back. Someone else is using my account again. This is the second time in a week.",
+    "intent": "account",
+    "should_escalate": true,
+    "reply_keywords": [],
+    "historical_reply": "@125849 We're sorry to hear that. This is something for our Account's team. You can reach them by heading to our contact form &gt; select Logging in &gt; I can't log in to Spotify &gt; I STILL NEED HELP /MG /MG"
+  },
+  {
+    "id": 44,
+    "tweet_id": "62431",
+    "conversation_id": "",
+    "message": "@SpotifyCares sent a DM! Was wondering if I could get some help :)",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130303 Hi, we've just replied to your DMs. Check your messages 🙂 /SY"
+  },
+  {
+    "id": 45,
+    "tweet_id": "38940",
+    "conversation_id": "",
+    "message": "@SpotifyCares \nNo save connection - something is wrong with https://t.co/NBpfL1voJ0... https://t.co/uzXVej5NCL",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124501 Hi there. Can you let us know what device you're using? Does using a different browser or incognito make a difference? /LM"
+  },
+  {
+    "id": 46,
+    "tweet_id": "2962",
+    "conversation_id": "",
+    "message": "@SpotifyCares AC/DC....",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116394 Thanks. Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /NS"
+  },
+  {
+    "id": 47,
+    "tweet_id": "52342",
+    "conversation_id": "",
+    "message": "@SpotifyCares Where is my Premium account? I can't cancel account if you are charging me for something I can't log into! FIX IT!",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127774 Hey Gregor! Can you DM us your account's email address and username? We'll take a look backstage /KL https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 48,
+    "tweet_id": "57063",
+    "conversation_id": "",
+    "message": "@SpotifyCares Tried that but none of it works. Album is Modal Soul by Nujabes in mp3 format. I can see the files in spotify but they just wont play.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128930 Hmm. If possible, can you check if the same thing happens when using other devices? /JE"
+  },
+  {
+    "id": 49,
+    "tweet_id": "12084",
+    "conversation_id": "",
+    "message": "@115888 can you please bring back the „touch preview“ feature??? Please? 😭🙏🏼",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@118385 Hey Maria! We have more info about this here: https://t.co/pXBCq8GlsI. Give us a shout if you have any questions /FR"
+  },
+  {
+    "id": 50,
+    "tweet_id": "45737",
+    "conversation_id": "",
+    "message": "Hey @115888 I need this Copeland album because it’s a banger and hardly anyone knows it exists. https://t.co/II7N9SFESH",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126137 Hey there! We’d love to have all of their stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /GU"
+  },
+  {
+    "id": 51,
+    "tweet_id": "8265",
+    "conversation_id": "",
+    "message": "@SpotifyCares is there an email i can message? Ive been trying to buy premuim for a few days but i keep getting the card bad day error.",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117444 Hey, we can help here on Twitter! Could you send us a DM with your account's email address? We'll take a look backstage /CH https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 52,
+    "tweet_id": "57579",
+    "conversation_id": "",
+    "message": "I swear to god I have a problem with @SpotifyCares every other month 😡😡",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129066 Hey, help's here! We've just sent you a bit more info over DM. We'll carry on helping out there /JQ"
+  },
+  {
+    "id": 53,
+    "tweet_id": "39755",
+    "conversation_id": "",
+    "message": "@SpotifyCares when trying to join a family \"4 - Oops something went wrong, please try again.\"",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124705 Hi Denis, help's here! Can you DM us your account's email address? We'll take a look backstage /DV https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 54,
+    "tweet_id": "64389",
+    "conversation_id": "",
+    "message": "@SpotifyCares @130780 Hi sir, i have the same inquiry. My consumption will last this December. Thank you.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130781 Hi there! We'd love to help out. Can you DM us your account's username or email address, along with more details on what's happening? We'll check things backstage /MU https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 55,
+    "tweet_id": "64365",
+    "conversation_id": "",
+    "message": "@115888  what is this 😂 #StrangerThings https://t.co/1qAPa8ijve",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130773 Hey Abby! The Stranger Things Mode is an easter egg feature that adds some visual effects to your app. Hope this info helps /GK"
+  },
+  {
+    "id": 56,
+    "tweet_id": "44670",
+    "conversation_id": "",
+    "message": "@SpotifyCares On iphone app in folder wich i create on PC and put inside some playlist i dont have play button like in PC app\nTnaks",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@121069 Okay. Just to confirm, are you having trouble playing a local file playlist within your Spotify app? We'll be awaiting your reply /JI"
+  },
+  {
+    "id": 57,
+    "tweet_id": "59694",
+    "conversation_id": "",
+    "message": "@SpotifyCares Multiple pairs of headphones, which are otherwise fine i.e. When using Groove",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129638 Thanks for the info. Can you DM us your account's email address or username? We'll take a look backstage /PB https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 58,
+    "tweet_id": "27956",
+    "conversation_id": "",
+    "message": "You ok spotify ?? https://t.co/T9Ds0oa5l8",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@122124 Hey, help's here. Does logging out and back in help at all? If the issue persists, try restarting the device. Let us know how it goes /AC"
+  },
+  {
+    "id": 59,
+    "tweet_id": "6485",
+    "conversation_id": "",
+    "message": "@117153 @SpotifyCares Im paying for premium but every time i log in it keeps saying free service",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117152 Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage /FR https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 60,
+    "tweet_id": "2963",
+    "conversation_id": "",
+    "message": "Hey @SpotifyCares did you take \"You shook me all night long\" off spotify just to piss me off? Why remove the greatest song ever made?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116394 Hey Dustin, we're sorry to hear that! Can you let us know the name of the artist of that track? We'll check it out /NS"
+  },
+  {
+    "id": 61,
+    "tweet_id": "36163",
+    "conversation_id": "",
+    "message": "@SpotifyCares Like what ?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123872 You can try using a different computer to see if it helps. Also, try resetting your password at https://t.co/jGP5GWOoVY /CB"
+  },
+  {
+    "id": 62,
+    "tweet_id": "39745",
+    "conversation_id": "",
+    "message": "@SpotifyCares Reinstalling the app did fix some issues but I still have problems with artist info in locked mode and control center",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124704 Alright. Could you DM us your account's username or email address? We'll take a look under the hood /GU https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 63,
+    "tweet_id": "8291",
+    "conversation_id": "",
+    "message": "@SpotifyCares add lyrics to all songs on ur app pls, apple music can do it u can too",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117452 Hey! If you’re Premium, you can connect your Spotify account to the Musixmatch mobile app to enjoy lyrics: https://t.co/scvbRH6MhL /JS"
+  },
+  {
+    "id": 64,
+    "tweet_id": "67683",
+    "conversation_id": "",
+    "message": "@SpotifyCares I sent you guys a dm.  I seriously need cflarification in here",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131455 Hi, help's arrived! We've just sent you a bit more info over DM. We'll carry on helping out there /LS"
+  },
+  {
+    "id": 65,
+    "tweet_id": "9362",
+    "conversation_id": "",
+    "message": "@642 @115888 @SpotifyCares my spotify premium stopped working",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117671 Hey there! Can you DM us your account's email address? We'll take a look backstage /RB https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 66,
+    "tweet_id": "66013",
+    "conversation_id": "",
+    "message": "@SpotifyCares Any news???!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131101 Hi Max! We don't have any news on the Explicit Filter yet, but keep an eye on this post for updates: https://t.co/CdI1SY9KZE 👍 /RR"
+  },
+  {
+    "id": 67,
+    "tweet_id": "66027",
+    "conversation_id": "",
+    "message": "@115888 make my Spotify name Yung Calo pleaseeeeee!!!💔",
+    "intent": "account",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131105 Hey there! Could you DM us your account's username or email address? We'll take a look backstage /JO https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 68,
+    "tweet_id": "51765",
+    "conversation_id": "",
+    "message": "@SpotifyCares Obviously they don't work. found workaround: Sort albums/artists by \"name\" then go back to \"songs\" &amp; shuffle again. THIS IS NOT IMPROVEMENT!",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127639 Thanks for letting us know. Rest assured, we'll definitely be passing your feedback on this to the right team! /CB"
+  },
+  {
+    "id": 69,
+    "tweet_id": "44676",
+    "conversation_id": "",
+    "message": "@115888 It took me four seconds to deactivate it yes, but why is that an automatic trigger ... literally logging in to my Spotify?",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125916 Hey there. Can you send us a DM with your account's email address? We'll take a look at what happened /LS https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 70,
+    "tweet_id": "21144",
+    "conversation_id": "",
+    "message": "@115888 but when will we be able to see how long our play queue is",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@120633 Hey! We have more info about the Play Queue at https://t.co/G7PK3sVrTN. Let us know if there's anything else /RC"
+  },
+  {
+    "id": 71,
+    "tweet_id": "44692",
+    "conversation_id": "",
+    "message": "@SpotifyCares I tried disconnecting this supposedly other Spotify acct from FB but I have not been able to",
+    "intent": "account",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125921 Can you DM us the email address that you use for Facebook? We'll take a look backstage /SY https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 72,
+    "tweet_id": "44416",
+    "conversation_id": "",
+    "message": "Thank you, @115888 , for the ad that interrupted the music I had streaming at work. The children loved hearing about \"real n*****s.\"",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125854 Hey Claire, we didn't mean to cause any offense. We'll pass the feedback on to the right people /CG"
+  },
+  {
+    "id": 73,
+    "tweet_id": "32067",
+    "conversation_id": "",
+    "message": "Sort it out @115888 https://t.co/9WbL2JRBpQ",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123091 Hey! Do you have any trouble with this link: https://t.co/atYeVkuQDq? Let us know /CB"
+  },
+  {
+    "id": 74,
+    "tweet_id": "38946",
+    "conversation_id": "",
+    "message": "@SpotifyCares  https://t.co/u6pNtYSNYS",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124503 1: Thanks! Since you're already on the latest version, can you try restarting your phone first by holding Home + Lock for 10 seconds?"
+  },
+  {
+    "id": 75,
+    "tweet_id": "6620",
+    "conversation_id": "",
+    "message": "@SpotifyCares Ok! Thanks. I will let you know if it happens again. Thanks for every thing! https://t.co/WWH8AKTJUk",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117167 You're welcome! If you ever need us again, just give us a... https://t.co/AUc7DGJpgF 🙂 /AR"
+  },
+  {
+    "id": 76,
+    "tweet_id": "64343",
+    "conversation_id": "",
+    "message": "Song download limits? C'mon.\n\nWe're living in 2017 while @115888 is still in 1967. Get with the times. https://t.co/1m2yHWLZ8H",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130764 Hey Alex! We hear you 🎧 Thanks for taking the time to reach out – your feedback will be passed on to the right folks. For anything else, feel free to send a tweet our way /LS"
+  },
+  {
+    "id": 77,
+    "tweet_id": "23258",
+    "conversation_id": "",
+    "message": "@115888 hey, how comes no other playlist displays the same as Time Capsule? I like it!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@121068 Hey Lara, we appreciate your feedback! Don't worry, we'll let our devs know this is something you'd like to see /GK"
+  },
+  {
+    "id": 78,
+    "tweet_id": "56084",
+    "conversation_id": "",
+    "message": "@SpotifyCares This was the seventh song suggested to me that was already on my playlist, and the fifth that had already played https://t.co/6kupfgnFoJ",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128729 Thanks! To reduce the number of repeated Suggested Tracks, try adding more artists to your playlists /KL"
+  },
+  {
+    "id": 79,
+    "tweet_id": "70703",
+    "conversation_id": "",
+    "message": "@SpotifyCares Yes, it works, thank you!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131858 Awesome, that's great to hear! Enjoy your tunes, and if you ever need us - just shout https://t.co/AUc7DGJpgF 🎶 /J"
+  },
+  {
+    "id": 80,
+    "tweet_id": "21370",
+    "conversation_id": "",
+    "message": "@SpotifyCares Hi please see my DM :)",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@120677 Hi there! Sorry for the delay. We can help revert your account to Free and issue a refund for the payment. Just get back to us with your date of birth and the last 4 digits of your payment card for security /CP"
+  },
+  {
+    "id": 81,
+    "tweet_id": "52345",
+    "conversation_id": "",
+    "message": "@SpotifyCares \"Next 30min are ad free thanks to the following sponsor\" then the ad finished, I heard one song and I got 3 ads in a row. Tf?",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127775 Hey, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /JX"
+  },
+  {
+    "id": 82,
+    "tweet_id": "45739",
+    "conversation_id": "",
+    "message": "@115888 @117168\nFix ya self pls\nGive me the old full artwork back. https://t.co/DDt9HqVvm7",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126138 Hey there! Thanks for sharing your thoughts on this. We’ll make sure your feedback reaches the right folks /JE"
+  },
+  {
+    "id": 83,
+    "tweet_id": "38953",
+    "conversation_id": "",
+    "message": "@SpotifyCares issue with my account",
+    "intent": "account",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124504 Hey, we've just sent you a bit more info over DM. We'll carry on helping out there 🙂 /MA"
+  },
+  {
+    "id": 84,
+    "tweet_id": "58288",
+    "conversation_id": "",
+    "message": "@SpotifyCares Neither that post nor you have answered the question why's there a limit. \"Because it's better\" isn't a response. Why is it better?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129237 We don't have any more info to share about this. Don't worry, we're taking on all feedback /JP"
+  },
+  {
+    "id": 85,
+    "tweet_id": "33423",
+    "conversation_id": "",
+    "message": "@SpotifyCares why does my Spotify look like this??? https://t.co/zc8V8PLUHp",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123395 Hey there! Can you let us know the iOS and Spotify versions you're using? We'll take a look backstage /RS"
+  },
+  {
+    "id": 86,
+    "tweet_id": "43436",
+    "conversation_id": "",
+    "message": "@SpotifyCares S/O for the comeback guys! 👌🏿",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125632 No worries! If you ever have any questions, feel free to give our Artist support team a shout: https://t.co/p1wbtdELHu /L"
+  },
+  {
+    "id": 87,
+    "tweet_id": "5005",
+    "conversation_id": "",
+    "message": "@116886 @SpotifyCares The truth is, although Spotify Cares, they've obviously already found the feature to not be useful to the masses. We are outliers. 😓",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116885 We're sorry if you feel that way. In any case, we appreciate your feedback on this. Feel free to tweet us if there's anything else /GK"
+  },
+  {
+    "id": 88,
+    "tweet_id": "36170",
+    "conversation_id": "",
+    "message": "@SpotifyCares  https://t.co/40GhuixFya",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123872 Thanks! Can you try using an incognito/ private window or a different browser? Does that make any difference? /JP"
+  },
+  {
+    "id": 89,
+    "tweet_id": "70681",
+    "conversation_id": "",
+    "message": "@SpotifyCares I know, I'm a long time user... And it's breaking more every day. Please start supporting it, that's what I'm asking. Or just release an update now and then.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131854 We hear you loud and clear! We can’t make any promises, but we’ll pass your feedback on to the right folks 🙂 /MA"
+  },
+  {
+    "id": 90,
+    "tweet_id": "41777",
+    "conversation_id": "",
+    "message": "@SpotifyCares Nothing is solved if I send you the link. Your service is still leaking customer informations.",
+    "intent": "account",
+    "should_escalate": true,
+    "reply_keywords": [],
+    "historical_reply": "@125202 Sorry you feel that way. It'd be best to send us the info over DM so that we can pass it on to the right folks /JE"
+  },
+  {
+    "id": 91,
+    "tweet_id": "48085",
+    "conversation_id": "",
+    "message": "@SpotifyCares Hello #Spotify. 26 Sept I reported a bug, wha'ts the status ? I still can't drag playing #songs to #playlists :((((\n isn't this a big issue?",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126752 Hi again. We're sorry you feel that way. Can you try reinstalling the app using the steps here: https://t.co/EqisDMwZAT? /LM"
+  },
+  {
+    "id": 92,
+    "tweet_id": "38947",
+    "conversation_id": "",
+    "message": "@SpotifyCares iphone 6s and i’m not sure but i’d assume the lastest update?",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124503 Can you also check the exact Spotify version you're using? Just go to Your Library &gt; Settings &gt; About &gt; Version 🙂 /RR"
+  },
+  {
+    "id": 93,
+    "tweet_id": "5028",
+    "conversation_id": "",
+    "message": "@SpotifyCares Doesn’t show in lock screen. Can’t adjust volume of phone isn’t unlocked also.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116891 Thanks for the info. Could you try logging out &gt; restarting your device &gt; logging back in to see if it helps? Keep us posted /AR"
+  },
+  {
+    "id": 94,
+    "tweet_id": "32071",
+    "conversation_id": "",
+    "message": "@116130 I’m being charged for premium but my account is saying I’m not premium and won’t give me premium features?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123093 Hey Liz! Could you send us a DM with your account's email address? We'll take a look backstage /MA https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 95,
+    "tweet_id": "58927",
+    "conversation_id": "",
+    "message": "@SpotifyCares I was charged $4.99 for student spotify and i don’t get it, its annoying how this stuff keeps happening; can you please DM me!",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129421 Hey! We've just sent a DM your way. Let's carry on chatting there /TR"
+  },
+  {
+    "id": 96,
+    "tweet_id": "41775",
+    "conversation_id": "",
+    "message": "I wish @115888 had a feature that allowed you to add artists/songs to a 'don't play ever' list. Won't name names in public. https://t.co/6cgfiKvrHA",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125201 Hi Camellia! This isn’t possible right now, but we have more info about this on our Community. Check it out: https://t.co/oGDLtirXki /LP"
+  },
+  {
+    "id": 97,
+    "tweet_id": "32481",
+    "conversation_id": "",
+    "message": "Hey @115888  my premium family is gonna expire soon and until now none of my family members can even use it. fix it please",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123206 Hey! Can you DM us your account's email address? We'll see what we can suggest /CB https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 98,
+    "tweet_id": "54530",
+    "conversation_id": "",
+    "message": "The past few days playing @115888 on my phone has caused it to overheat and lose about 60% battery in 30 minutes",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128354 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB"
+  },
+  {
+    "id": 99,
+    "tweet_id": "48072",
+    "conversation_id": "",
+    "message": "@SpotifyCares Just putting a lil drama here hahahah dont mind me. Keep doing u guys! Hearts from the PH!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126750 Haha! If you ever need help with anything else, just give us a shout. Otherwise, have a... https://t.co/FQulrDtFky 😉 /GU"
+  },
+  {
+    "id": 100,
+    "tweet_id": "52340",
+    "conversation_id": "",
+    "message": "@SpotifyCares Taking Dawn is my band. I can't access my band's Spotify page. Can you please help me? THANK YOU! Feel free to DM",
+    "intent": "account",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127773 Hey Chris! We've sent a DM your way. Check your inbox for it /KL"
+  },
+  {
+    "id": 101,
+    "tweet_id": "16533",
+    "conversation_id": "",
+    "message": "@115888 I don't get it. Do you not get to pick what you listen to anymore? Is this a cult? https://t.co/llzqflREow",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@119645 Hey there! Can you let us know what's happening exactly? We'll see what we can suggest /NS"
+  },
+  {
+    "id": 102,
+    "tweet_id": "38942",
+    "conversation_id": "",
+    "message": "@SpotifyCares How about you guys just make it happen as it will be an increased revenue stream and it's the right thing to do?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124502 We hear you loud and clear. We can’t make any promises but we’ll pass your feedback onto the right folks 🙂 /JI"
+  },
+  {
+    "id": 103,
+    "tweet_id": "70699",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thanks! Also adding some kind of store for merch so y'all can make a cut? Idk",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131857 No worries! About merch, our friends in Artist Support are the right folks to help with this. You can get in touch with them here: https://t.co/41wf7ozbVm. Hope this helps /MU"
+  },
+  {
+    "id": 104,
+    "tweet_id": "37702",
+    "conversation_id": "",
+    "message": "@115888 can you please add a feature to only view from releases from artist you follow.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124188 Hey Rahger! Thanks for sharing your thoughts, we'll let the relevant folks know it's something you'd like to see /SY"
+  },
+  {
+    "id": 105,
+    "tweet_id": "67675",
+    "conversation_id": "",
+    "message": "@SpotifyCares Tried this. Couldn't find the com.Spotify file anywhere on my phone. Reinstalled  and now it just won't open at all. https://t.co/U2KYQuBoeg",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131454 Hmm. Does restarting your device help at all? Can you try clearing your cache? Keep us posted /PL"
+  },
+  {
+    "id": 106,
+    "tweet_id": "57067",
+    "conversation_id": "",
+    "message": "@128930 @SpotifyCares Mine either",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128931 Hey there! What device, operating system, and Spotify version are you using? Also, can you give us more info about what's happening? /KL"
+  },
+  {
+    "id": 107,
+    "tweet_id": "38938",
+    "conversation_id": "",
+    "message": "@SpotifyCares I'm trying to change my password but no email is coming up in my Spotify registered email address with the link to change it?",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124500 Hi Rebecca! Can you DM us your account's username or email address? We'll take a look backstage /MC https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 108,
+    "tweet_id": "48581",
+    "conversation_id": "",
+    "message": "@SpotifyCares but when it's been 9 years since Spotify was launched",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126823 We understand. Rest assured, we'll update everyone who's added their email to that form when it's available! /K"
+  },
+  {
+    "id": 109,
+    "tweet_id": "48080",
+    "conversation_id": "",
+    "message": "@SpotifyCares I remember the reply from your side finally being: we know this is an issue, working on it or something. But it’s a bug so should be fixed..",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126752 Gotcha. Could you DM us your account's email address? We'll take a look backstage /LM https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 110,
+    "tweet_id": "64390",
+    "conversation_id": "",
+    "message": "@115888 I used my sim btw",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130780 Hey! We've just sent you a DM. Let's carry on chatting there /JO"
+  },
+  {
+    "id": 111,
+    "tweet_id": "62425",
+    "conversation_id": "",
+    "message": "The only reason I have not purchased @115888 premium is because of recurring billing. Is there any way around this?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130301 Hey there! Could you head over at https://t.co/6U9K2VcuJI and see if that helps? For anything else, let us know /GU"
+  },
+  {
+    "id": 112,
+    "tweet_id": "16203",
+    "conversation_id": "",
+    "message": "@SpotifyCares hi. can you pretty, pretty please put the band \"jank\"\nback on spotify?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@119557 Hey Claire! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have them available again soon /MG"
+  },
+  {
+    "id": 113,
+    "tweet_id": "55226",
+    "conversation_id": "",
+    "message": "@SpotifyCares It's not like the albums take up any actual space. It should basically just be an index of albums that I have clicked save on.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128524 2: constantly monitoring all feedback posted in our Community. Hopefully this is something we'll be able to implement in the future /NS"
+  },
+  {
+    "id": 114,
+    "tweet_id": "53728",
+    "conversation_id": "",
+    "message": "@SpotifyCares I’ve tried both of those and neither worked",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128149 Hmm. Could you send us your account's username or email address via DM? We'll take a look backstage /LP https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 115,
+    "tweet_id": "8688",
+    "conversation_id": "",
+    "message": "@SpotifyCares Android 6.0.1 and Spotify version 8.4.25.771 armV7",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117527 Thanks for that! Can you DM us your account's email address and username? We'll take a look backstage /KL https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 116,
+    "tweet_id": "2969",
+    "conversation_id": "",
+    "message": "@SpotifyCares It’s on the mobile app",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116395 Alright. Can you send us the Song Link then? Just tap the three dots &gt; Share &gt; Copy Link. We'll have a look /AG"
+  },
+  {
+    "id": 117,
+    "tweet_id": "9385",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thanks. If you want to see the finest release notes known to man, check out the Argos app's release history. They add brand value!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117674 We'll keep that in mind! Just give us a shout if you need anything else. We're... https://t.co/zOXI69QSqg /JU"
+  },
+  {
+    "id": 118,
+    "tweet_id": "17966",
+    "conversation_id": "",
+    "message": "@SpotifyCares https://t.co/MUE1aQFaeH And country is Germany but a friend mine is in the US and only sees those 2 songs as well in the latest album.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@119986 Thanks for the info. Sometimes content gets removed due to licensing issues. Hopefully we'll have all of their stuff available soon /AR"
+  },
+  {
+    "id": 119,
+    "tweet_id": "66032",
+    "conversation_id": "",
+    "message": "@117153 Any known issues at the moment with the facebook interface? Can't seem log into the app via facebook at the moment, oh and: this is on the screen in chrome: https://t.co/5RcjmmhnXG",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131107 Hi there! That's odd. Can you DM us your account's username or email address, along with a screenshot of the error message you're getting on the app? We'll check things backstage /MU https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 120,
+    "tweet_id": "66031",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thanks for getting back to me, it seems to have sorted itself out, for now. Will get back to you if the issue pops up again!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131107 Great! We're glad to hear that things are doing okay right now. Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ 🙂 /LO"
+  },
+  {
+    "id": 121,
+    "tweet_id": "5023",
+    "conversation_id": "",
+    "message": "@SpotifyCares They're back now. I was on my phone's 4g earlier. I don't know what happened but when I connected to my wifi it returned. Thank you though.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116890 1: Great! Glad to hear everything's okay now. It could have been just a delay when the app was loading. Just let us know if we can help..."
+  },
+  {
+    "id": 122,
+    "tweet_id": "45754",
+    "conversation_id": "",
+    "message": "@SpotifyCares That’s annoying. 🙃",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126143 We understand where you're coming from. No worries. We'll pass your feedback onto the right folks /DV"
+  },
+  {
+    "id": 123,
+    "tweet_id": "45744",
+    "conversation_id": "",
+    "message": ".@115888 what did I do to deserve a terrible discover weekly playlist. why have you forsaken me like this",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126140 1: Hey there! We're sorry to hear Discover Weekly wasn’t to your liking this week. Keep listening to your favorite..."
+  },
+  {
+    "id": 124,
+    "tweet_id": "53133",
+    "conversation_id": "",
+    "message": "@SpotifyCares the discover page was basically showing Discover Weekly, Release Radar, New Releases For You and then duplicating the Overview page list",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127973 Thanks for letting us know! Just to check, are you able to see your recommended music after the relaunch? /HR"
+  },
+  {
+    "id": 125,
+    "tweet_id": "8239",
+    "conversation_id": "",
+    "message": "@117153 Hey, I payed but I still don't have premium?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128725 That's odd! Can you DM us your account's email address and username? We'll take a look backstage /KL https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 126,
+    "tweet_id": "38302",
+    "conversation_id": "",
+    "message": "@SpotifyCares The “time capsule” playlist is suggesting music that I haven’t listened to in 15 years, so I am curious as to how you even know this info.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124328 Your Time Capsule is a playlist consisting of personalised content algorithmically created based on your previous listening history /PL"
+  },
+  {
+    "id": 127,
+    "tweet_id": "58278",
+    "conversation_id": "",
+    "message": "@SpotifyCares Ah okay.  Thanks.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129236 No worries! For anything else, we're just a tweet away /JP"
+  },
+  {
+    "id": 128,
+    "tweet_id": "1869",
+    "conversation_id": "",
+    "message": "@SpotifyCares using a MacBook Pro with OS X El Capitan and the latest Spotify update, and an iPhone 6S with the latest software/Spotify updates!",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116128 Got it! Could you try streaming one of our 15 Stranger Things playlists, then switch to the Now Playing screen? /KB"
+  },
+  {
+    "id": 129,
+    "tweet_id": "11169",
+    "conversation_id": "",
+    "message": "@SpotifyCares They aren’t locally imported… We just imported her iTunes playlist in Spotify so it found identical songs. Is that why they are greyed out?",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@118116 You're right. It's possible that some tracks from her iTunes isn't available on Spotify. This is why you can't play these tracks /JU"
+  },
+  {
+    "id": 130,
+    "tweet_id": "65989",
+    "conversation_id": "",
+    "message": "@SpotifyCares What does right-click mean on a phone?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131097 Thanks for reporting, and sorry for the confusion. You can get the URI of the song via the desktop app. Can you send us the song link instead? Just tap the three dots &gt; Share &gt; Copy Link. We'll take a closer look /DN"
+  },
+  {
+    "id": 131,
+    "tweet_id": "64348",
+    "conversation_id": "",
+    "message": "@SpotifyCares can you fix my account please it's not letting me log in through Facebook",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130766 Hey, we're here to help! Can you DM us your account's email address? We'll take a look backstage /KM https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 132,
+    "tweet_id": "66029",
+    "conversation_id": "",
+    "message": "@118266 saya mendapat promo 3 bulan cuma Rp 4990 itu benar ga? Trs kl udh 3 bulan selesai bayarnya kembali ke awal?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131106 Hey there! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /GK"
+  },
+  {
+    "id": 133,
+    "tweet_id": "70711",
+    "conversation_id": "",
+    "message": "what the fuq with your web player ? @121907 @115888 #spotifyth it keeps getting crashed all the freaking time !",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131859 Hey, that's not cool! When did this start to happen? Can you also let us know the internet browser you're using? /LO"
+  },
+  {
+    "id": 134,
+    "tweet_id": "64398",
+    "conversation_id": "",
+    "message": "@SpotifyCares I'm having issues syncing my devices. It's often taking hours before changes are synced across from my desktop app to iOS.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130782 Hey Mark, help's here! Can you try reinstalling the app on both devices? Just follow the steps here: https://t.co/vNY2SFD0tR. Let us know how it goes /PL"
+  },
+  {
+    "id": 135,
+    "tweet_id": "49242",
+    "conversation_id": "",
+    "message": "@117153 yo",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127005 Hey Julian! What's on your mind? We'll see what we can suggest /DV"
+  },
+  {
+    "id": 136,
+    "tweet_id": "19785",
+    "conversation_id": "",
+    "message": "@115888 hi how do I contact someone?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@120342 @115888 Hey Chloe! We just replied to your DM. We'll carry on helping out there /KC"
+  },
+  {
+    "id": 137,
+    "tweet_id": "64363",
+    "conversation_id": "",
+    "message": "@116130 When are you going to get music videos?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130772 Hey there! We don't have any info to share at the moment, but you can support the idea at https://t.co/iujf4VcrMq to help make it happen. Let us know if we can help with anything else /AC"
+  },
+  {
+    "id": 138,
+    "tweet_id": "855",
+    "conversation_id": "",
+    "message": "i’m pissed my @115888 shuffle and repeat button just don’t fucking work and i’m getting frustrated",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@115887 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB"
+  },
+  {
+    "id": 139,
+    "tweet_id": "59697",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thanks for the link but it wasn’t helpful, every other streaming service has the song available. It’s only that track, the rest are there.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129639 1: We'd love to have it in the app for everyone to enjoy, but music availability all boils down to licensing agreements."
+  },
+  {
+    "id": 140,
+    "tweet_id": "54535",
+    "conversation_id": "",
+    "message": "@115888 when will astros new albums be added pls and thanks",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128355 Hey there! We’ll have it available to you as soon as it’s available to us. There's more info at https://t.co/0i8GpimuDa /JE"
+  },
+  {
+    "id": 141,
+    "tweet_id": "23277",
+    "conversation_id": "",
+    "message": "@SpotifyCares  https://t.co/GvE0JBxILu",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@121073 Hmm. Is this happening after a specific song plays? Also, are you using a wired or wireless connection? /AY"
+  },
+  {
+    "id": 142,
+    "tweet_id": "55220",
+    "conversation_id": "",
+    "message": "Thank youuuu!!!! It's finallllllly fixed!!! @115888 💚🖤💚🖤💚😘",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128523 Glad to hear! If you ever need anything else, just shout and we'll come running 🏃 /KL"
+  },
+  {
+    "id": 143,
+    "tweet_id": "9375",
+    "conversation_id": "",
+    "message": "@SpotifyCares I have logged in to multiple devices as well. All iPhones with iOS 11 updates. Same problem",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117673 Hmm. Could you give us the exact iOS 11 and Spotify app versions you're using? We'll see what else we can suggest /JU"
+  },
+  {
+    "id": 144,
+    "tweet_id": "39768",
+    "conversation_id": "",
+    "message": "@SpotifyCares No error messages, the music just cuts out every 10-15 seconds.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124710 Got it. Could you try using an incognito window or a different browser to see if it helps? Let us know how it goes /NS"
+  },
+  {
+    "id": 145,
+    "tweet_id": "67669",
+    "conversation_id": "",
+    "message": "Help me fam. I already paid for premium acct. For @115888 but its still in free trial?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131452 Hey, help's here! Can you DM us your account's email address? We'll check backstage /GK https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 146,
+    "tweet_id": "67673",
+    "conversation_id": "",
+    "message": "@SpotifyCares Seems to have done the trick. Thanks for the quick replies.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131454 Great! Glad to hear it's now working. Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ /PL"
+  },
+  {
+    "id": 147,
+    "tweet_id": "58931",
+    "conversation_id": "",
+    "message": "@115888 Not quite sure why I didn't receive a @3278 presale code, but have for others... they're one of my top listened to artists",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129422 Hey there. Pre-sale codes are being sent out by email to some of their top listeners on Spotify. Hopefully you're one of them! /PB"
+  },
+  {
+    "id": 148,
+    "tweet_id": "44698",
+    "conversation_id": "",
+    "message": "there’s barely any ian brown catalogue on spotify US. sort it out.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125923 Hey Eve! We’d love to have all of their stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /K"
+  },
+  {
+    "id": 149,
+    "tweet_id": "21142",
+    "conversation_id": "",
+    "message": "Spotify and Hulu is like the only good thing to happen this year",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@120632 No worries! Feel free to give us a shout if we can help with anything else. We're always... https://t.co/zOXI69QSqg​ /RS"
+  },
+  {
+    "id": 150,
+    "tweet_id": "56076",
+    "conversation_id": "",
+    "message": "@SpotifyCares I can’t right click the track if the track is no longer viewable and/or no longer shows up when searched for.  My account is U.S.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128727 1: We understand. We've checked the song and found that it's not available in your country. Fingers crossed we'll be able to have..."
+  },
+  {
+    "id": 151,
+    "tweet_id": "849",
+    "conversation_id": "",
+    "message": "@SpotifyCares doesn’t work and i even tried deleting the app",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@115887 Could you send us a DM with your account's email address? We'll take a look backstage /CH https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 152,
+    "tweet_id": "42738",
+    "conversation_id": "",
+    "message": "@115888 @2444 When will be Spotify available in India..??",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125453 Hey Akash! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM. Keep rocking 🤘 /MQ"
+  },
+  {
+    "id": 153,
+    "tweet_id": "53718",
+    "conversation_id": "",
+    "message": "@SpotifyCares Nah, I have most my songs offline on my phone and it works perfectly perfect. And also nah, even Adobe Photoshop doesn't crash my laptop.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128147 We see. Can you DM us your account's username or email address? We'll take a look backstage /MC https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 154,
+    "tweet_id": "2809",
+    "conversation_id": "",
+    "message": ".@SpotifyCares any way to block this particular ad? Happy with ads/dont want premium. Just this ad is really hard to watch over and over and over. Please help. https://t.co/MsW8FjmKw1",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116377 Hey there! Thanks for taking the time to reach out – we'll pass your feedback on to our Ads team /NQ"
+  },
+  {
+    "id": 155,
+    "tweet_id": "58280",
+    "conversation_id": "",
+    "message": "@SpotifyCares https://t.co/7o1265L4mk I cannot even find it on the app anymore.  I'm set to United States.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129236 Thanks. Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /JP"
+  },
+  {
+    "id": 156,
+    "tweet_id": "44671",
+    "conversation_id": "",
+    "message": "@SpotifyCares why i cant play my playlist folder on iphone app? You are SPOTIFY,guys do it please!",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@121069 Hi there, the cavalry's here! Does logging out, restarting your device, and logging back into Spotify help? Keep us in the loop /JI"
+  },
+  {
+    "id": 157,
+    "tweet_id": "40657",
+    "conversation_id": "",
+    "message": "@SpotifyCares But can I put my account number in so my payment can still comes out",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124926 Currently, not directly through Spotify. However, can you DM us your account's username and email address? We'll see what we can suggest /TY"
+  },
+  {
+    "id": 158,
+    "tweet_id": "36742",
+    "conversation_id": "",
+    "message": "@SpotifyCares I said I fixed it.thanks.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124015 Awesome, we're glad to hear that! If you ever need anything else be sure to give us a... https://t.co/AUc7DGJpgF 🙂 /JX"
+  },
+  {
+    "id": 159,
+    "tweet_id": "5008",
+    "conversation_id": "",
+    "message": "@SpotifyCares Spotify 8.4.25.906 and iOS 11",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116887 Got it. Is this happening on 3G/4G, WiFi, or both? Do you get the same issue when you use Spotify on other devices? /KB"
+  },
+  {
+    "id": 160,
+    "tweet_id": "36743",
+    "conversation_id": "",
+    "message": "@SpotifyCares never mind I fixed it.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124015 Hey there, help's here. Just to check, were you able to get your playlists set up like you want? Keep us in the loop /MQ"
+  },
+  {
+    "id": 161,
+    "tweet_id": "65541",
+    "conversation_id": "",
+    "message": "@SpotifyCares Most of the time it's after an update sometimes it just happens randomly.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@131002 Sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /CH"
+  },
+  {
+    "id": 162,
+    "tweet_id": "8676",
+    "conversation_id": "",
+    "message": "@SpotifyCares Can't access my account. Annoyed that I have to tweet to get tech support for a service I pay for 😡",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117525 Hey Alex! Can you DM us your account's email address or username? We'll take a look backstage /RH https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 163,
+    "tweet_id": "53131",
+    "conversation_id": "",
+    "message": "@SpotifyCares Ok. Just to be sure, I'll listen to some country music, unless Spotify thinks I am into cowboys and indians next week. Lol.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124332 No worries! We'll be right here if you need anything else 🙂 /Q"
+  },
+  {
+    "id": 164,
+    "tweet_id": "5034",
+    "conversation_id": "",
+    "message": "@115888 can you stop spamming me with \"would you like to open Waze?\" Fuck.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116892 Hey there! Can you let us know which device and operating system you're using? We'll see what we can suggest /NQ"
+  },
+  {
+    "id": 165,
+    "tweet_id": "12086",
+    "conversation_id": "",
+    "message": "@115888 I need help with my account I keep getting charged for an account that is on the free subscription but was once premium",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@118386 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 166,
+    "tweet_id": "12647",
+    "conversation_id": "",
+    "message": "@SpotifyCares.  Set up family premium. put wrong address. canceled. now can't set up new account w my email address. U make me pay? Help!",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@118533 Hey Michael, help's here! Can you DM us your account's email address? We'll take a look backstage /KC https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 167,
+    "tweet_id": "53684",
+    "conversation_id": "",
+    "message": "@SpotifyCares The past 2 days. Laptop. Spotify Premium. Newest desktop update.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128140 1:Thanks, but we need to know what laptop you're using, as well as the OS. We also need to know your exact Spotify version."
+  },
+  {
+    "id": 168,
+    "tweet_id": "22236",
+    "conversation_id": "",
+    "message": "@SpotifyCares @120860 This is very urgent and should be fast-tracked",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@120859 Thanks Peter! We understand it's a popular idea. Rest assured, we'll pass on your feedback about this to the right team, too /T"
+  },
+  {
+    "id": 169,
+    "tweet_id": "60386",
+    "conversation_id": "",
+    "message": "@Spotifycares where do we find the Spotify offer code for presale tix with Ticketmaster?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129809 Hey Brian! Can you let us know the artist, date. and location of the concert/event? We'll see what we can find /JP"
+  },
+  {
+    "id": 170,
+    "tweet_id": "48134",
+    "conversation_id": "",
+    "message": "@SpotifyCares No updates. I have downloaded it 6 times in a year. A lot of my fellow Mac users have the same issue.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126763 Got it. Can you let us know your MacBook's OS version? Also, do you recall anything you've changed before it usually happens? /QI"
+  },
+  {
+    "id": 171,
+    "tweet_id": "61170",
+    "conversation_id": "",
+    "message": "@115888 please dont play ads with sound at the bottom of your web player while I'm trying to listen to down with the sickness.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130006 Hey John! Do ads play while you're streaming on the web player? Let us know - we'll look into this /SY"
+  },
+  {
+    "id": 172,
+    "tweet_id": "29616",
+    "conversation_id": "",
+    "message": "@115888 please contact me!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@122506 @115888 Hey there! We've just sent a DM your way. Let's carry on chatting there /AC"
+  },
+  {
+    "id": 173,
+    "tweet_id": "41768",
+    "conversation_id": "",
+    "message": "@SpotifyCares Ooh! Thank you.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125200 You're welcome! Let us know if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv 🙂 /AU"
+  },
+  {
+    "id": 174,
+    "tweet_id": "64395",
+    "conversation_id": "",
+    "message": "@SpotifyCares What about my downloaded albums?",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130782 Your downloaded tunes are safe. You'll just have to resync them after you reinstall the app. Keep us posted /PL"
+  },
+  {
+    "id": 175,
+    "tweet_id": "57064",
+    "conversation_id": "",
+    "message": "@SpotifyCares PC, Windows 10 - I guess the version is \"1.0.66.478.g1296534d\" (that's all I could find in the about spotify bit)",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128930 Thanks. We'd suggest checking our support page at https://t.co/Qv6svydfvz for more info. Hope that helps /JE"
+  },
+  {
+    "id": 176,
+    "tweet_id": "50182",
+    "conversation_id": "",
+    "message": "@SpotifyCares pls check your DMs",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127242 Hey there! We've just sent a DM your way. Let's carry on chatting there /AU"
+  },
+  {
+    "id": 177,
+    "tweet_id": "51761",
+    "conversation_id": "",
+    "message": "@127637 Bonjour, je ne reçois plus aucun mail de Spotify car je n'ai pas de réponse du support, comment vous contacter autrement?",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127636 @127637 Hey! We just replied to your DM with more info. Check your messages /CB"
+  },
+  {
+    "id": 178,
+    "tweet_id": "11712",
+    "conversation_id": "",
+    "message": "@118266 halo skrg kok udh gak ada pilihan bayar pakai pulsa ya untuk berlangganannya?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@118265 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /JS"
+  },
+  {
+    "id": 179,
+    "tweet_id": "37707",
+    "conversation_id": "",
+    "message": "@SpotifyCares done!",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124189 Thanks! We've just sent a DM back your way. Let's carry on chatting there /TR"
+  },
+  {
+    "id": 180,
+    "tweet_id": "34759",
+    "conversation_id": "",
+    "message": "@SpotifyCares.My account is skipping through every song and not playing anything - i have updated the software and there is no change",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123542 Hey there! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /RC"
+  },
+  {
+    "id": 181,
+    "tweet_id": "58925",
+    "conversation_id": "",
+    "message": "@115888 having issues with verifying some artist. Pls DM me . Thanks",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129420 Hey! Can you drop us a DM with what's happening exactly? Just use the link below /JP https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 182,
+    "tweet_id": "44237",
+    "conversation_id": "",
+    "message": "@SpotifyCares why can't i use my mobile account to pay for my premium all of a sudden when i have for the last 6 months?? Ee have said there ia no problem thier end?",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125829 Hey Ben! Don't worry, we're here to help. Can you DM us your account's email address or username? We'll take a look backstage /MT https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 183,
+    "tweet_id": "2853",
+    "conversation_id": "",
+    "message": "@SpotifyCares Thanks for the quick reply! I got it to work after un/reinstalling a few times, but I’m on MacOS High Sierra. Looks like version 1.0.68.407.g6864aaaf? I’m not sure what the initial problem was, but again, it’s working now.",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116379 Awesome! If you ever need anything else, just shout and we'll come running 🏃 /DF"
+  },
+  {
+    "id": 184,
+    "tweet_id": "36172",
+    "conversation_id": "",
+    "message": "@SpotifyCares since 5 days can nolonger longer log on my Spotify WebPlayer ...a reload red messages pop up im on premium account?",
+    "intent": "login",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@123872 Hey, we'd love to help! Can you send us a screenshot of the exact error message you're getting? We'll take a closer look /JP"
+  },
+  {
+    "id": 185,
+    "tweet_id": "67665",
+    "conversation_id": "",
+    "message": "@SpotifyCares I cancelled my subscription as it wouldn’t work , when I emailed for help you replied in Spanish i am in UK.... you are still taking my money without permission !! #nothappy",
+    "intent": "billing",
+    "should_escalate": true,
+    "reply_keywords": [],
+    "historical_reply": "@119768 Hey Rachel, that doesn't sound good. Can you DM us your account's email address? We'll take a look backstage /JN https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 186,
+    "tweet_id": "864",
+    "conversation_id": "",
+    "message": "@SpotifyCares ok thx",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@115891 No worries. If you have other questions, just give us a shout 😉 /GS"
+  },
+  {
+    "id": 187,
+    "tweet_id": "6616",
+    "conversation_id": "",
+    "message": "@SpotifyCares Yes I did. The dude even said thanks for watching now enjoy your 30 mins of ad free music.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@117167 Hmm, that's odd. We'll get this passed on to our devs so they can look into it. Give us a shout if you need anything else /RA"
+  },
+  {
+    "id": 188,
+    "tweet_id": "5011",
+    "conversation_id": "",
+    "message": "@SpotifyCares No just on my phone since I installed iOS 11. Mostly on 3G/4g. It’s very random when it decides not to work.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116887 Are you getting any error messages when it happens? Is it happening when you're using earphones, or even without them? /PL"
+  },
+  {
+    "id": 189,
+    "tweet_id": "62345",
+    "conversation_id": "",
+    "message": "@SpotifyCares Sure! This is the song link, and I’m in the US. https://t.co/uGIDKCKlH1 Glad I could help",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@130286 We can confirm that the track is longer available. Logging out and back in should refresh the app. Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /YM"
+  },
+  {
+    "id": 190,
+    "tweet_id": "2937",
+    "conversation_id": "",
+    "message": "@115888 the app is killing #phone #battery  fixing this problem? How is this okay. I guess you are getting the money without any complaints",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116387 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB"
+  },
+  {
+    "id": 191,
+    "tweet_id": "51763",
+    "conversation_id": "",
+    "message": "Hey guys, I cannot seem to update my payment information and I have worked too hard on these playlists for you guys to cancel my subscription. Help a brother out! @115888 @SpotifyCares",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@127638 @115888 Hi, we've just replied to your DMs. We'll carry on chatting there 🙂 /SY"
+  },
+  {
+    "id": 192,
+    "tweet_id": "2802",
+    "conversation_id": "",
+    "message": "@SpotifyCares Montreal, where the ad itself says I’m not allowed to get the deal.\n\nWe had another tweet exchange a few days ago when you emailed me the same offer.",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116375 Sorry about that. You shouldn’t have received an email/notification if you’re not eligible. Can you DM us your account's email address or username? /NQ https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 193,
+    "tweet_id": "48586",
+    "conversation_id": "",
+    "message": "@SpotifyCares This worked for 1 day and the release date is gone and only the year is shown.",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@126825 That's odd. Could you send us a DM with your account's email address? We'll take a look backstage /NH https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 194,
+    "tweet_id": "55250",
+    "conversation_id": "",
+    "message": "@115888 hey guys, my premium Spotify keeps turning itself off about every ten mins mid-play. Started about a week ago. Any fixes? Thanks :)",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@128530 Hey there! Could you let us know what device/OS you're using? We'll see what we can suggest /DF"
+  },
+  {
+    "id": 195,
+    "tweet_id": "2944",
+    "conversation_id": "",
+    "message": "Dear @115888 how do i get my discovery playlist to stop suggesting Dutch music to me, it's been a year",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@116391 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 196,
+    "tweet_id": "38322",
+    "conversation_id": "",
+    "message": "@SpotifyCares can you grant me a grace period for my premium account??? i have a urgent matter",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124333 Hi there! We've just sent you a bit more info over DM. We'll carry on helping out there /MA"
+  },
+  {
+    "id": 197,
+    "tweet_id": "11178",
+    "conversation_id": "",
+    "message": "Hey @115888  what about being available in India???",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@118118 Hey there! We're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP 🙂 /KC"
+  },
+  {
+    "id": 198,
+    "tweet_id": "60385",
+    "conversation_id": "",
+    "message": "@SpotifyCares Foo fighters in Atalanta on 4/28. Possibly part of the credit card on file with Spotify...",
+    "intent": "other",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@129809 Thanks. Pre-sale codes are being sent out by email to some of Foo Fighter's biggest fans on Spotify. Hopefully you're one of them! /JP"
+  },
+  {
+    "id": 199,
+    "tweet_id": "43457",
+    "conversation_id": "",
+    "message": "@SpotifyCares There are no error messages. Ill try to play it and it just wont and this isnt the first time. Im just wondering why I cant play it https://t.co/mbTJuQJj25",
+    "intent": "playback",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@125641 We understand. Can you DM us your account's email address? We'll take a closer look /BE https://t.co/ldFdZRiNAt"
+  },
+  {
+    "id": 200,
+    "tweet_id": "36747",
+    "conversation_id": "",
+    "message": "@116130 I'm trying to verify that I'm a student again but the pop up doesn't do anything, please help!! https://t.co/agn3vFAOs5",
+    "intent": "billing",
+    "should_escalate": false,
+    "reply_keywords": [],
+    "historical_reply": "@124016 Hi Kitty, help's here! Can you try using an incognito window or a different browser? Let us know how it goes /PL"
+  }
+]

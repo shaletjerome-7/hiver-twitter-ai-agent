@@ -1,0 +1,200 @@
+{"id": "g001", "message": "@SpotifyCares I was charged twice for Premium", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g002", "message": "Hi Spotify, Why is my Premium payment pending", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g003", "message": "My subscription price changed", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g004", "message": "Please help: I cannot update my payment method", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g005", "message": "Really frustrated - I was charged twice for Premium", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g006", "message": "@SpotifyCares Why is my Premium payment pending on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g007", "message": "Hi Spotify, My subscription price changed on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g008", "message": "I cannot update my payment method on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g009", "message": "Please help: I was charged twice for Premium on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g010", "message": "Really frustrated - Why is my Premium payment pending on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g011", "message": "@SpotifyCares My subscription price changed today", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g012", "message": "Hi Spotify, I cannot update my payment method today", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g013", "message": "I was charged twice for Premium today", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g014", "message": "Please help: Why is my Premium payment pending today", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g015", "message": "Really frustrated - My subscription price changed today", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g016", "message": "@SpotifyCares I cannot update my payment method and it is urgent", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g017", "message": "Hi Spotify, I was charged twice for Premium and it is urgent", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g018", "message": "Why is my Premium payment pending and it is urgent", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g019", "message": "Please help: My subscription price changed and it is urgent", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g020", "message": "Really frustrated - I cannot update my payment method and it is urgent", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g021", "message": "@SpotifyCares I was charged twice for Premium please", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g022", "message": "Hi Spotify, Why is my Premium payment pending please", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g023", "message": "My subscription price changed please", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g024", "message": "Please help: I cannot update my payment method please", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g025", "message": "Really frustrated - I was charged twice for Premium please", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g026", "message": "@SpotifyCares Why is my Premium payment pending", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g027", "message": "Hi Spotify, My subscription price changed", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g028", "message": "I cannot update my payment method", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g029", "message": "Please help: I was charged twice for Premium", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g030", "message": "Really frustrated - Why is my Premium payment pending", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g031", "message": "@SpotifyCares My subscription price changed on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g032", "message": "Hi Spotify, I cannot update my payment method on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g033", "message": "I was charged twice for Premium on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g034", "message": "Please help: Why is my Premium payment pending on Android", "intent": "billing", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g035", "message": "@SpotifyCares I cannot log in to my Spotify account", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g036", "message": "Hi Spotify, The password reset email never arrived", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g037", "message": "My login is locked", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g038", "message": "Please help: Sign in keeps failing on my phone", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g039", "message": "Really frustrated - I cannot log in to my Spotify account", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g040", "message": "@SpotifyCares The password reset email never arrived on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g041", "message": "Hi Spotify, My login is locked on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g042", "message": "Sign in keeps failing on my phone on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g043", "message": "Please help: I cannot log in to my Spotify account on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g044", "message": "Really frustrated - The password reset email never arrived on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g045", "message": "@SpotifyCares My login is locked today", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g046", "message": "Hi Spotify, Sign in keeps failing on my phone today", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g047", "message": "I cannot log in to my Spotify account today", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g048", "message": "Please help: The password reset email never arrived today", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g049", "message": "Really frustrated - My login is locked today", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g050", "message": "@SpotifyCares Sign in keeps failing on my phone and it is urgent", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g051", "message": "Hi Spotify, I cannot log in to my Spotify account and it is urgent", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g052", "message": "The password reset email never arrived and it is urgent", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g053", "message": "Please help: My login is locked and it is urgent", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g054", "message": "Really frustrated - Sign in keeps failing on my phone and it is urgent", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g055", "message": "@SpotifyCares I cannot log in to my Spotify account please", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g056", "message": "Hi Spotify, The password reset email never arrived please", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g057", "message": "My login is locked please", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g058", "message": "Please help: Sign in keeps failing on my phone please", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g059", "message": "Really frustrated - I cannot log in to my Spotify account please", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g060", "message": "@SpotifyCares The password reset email never arrived", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g061", "message": "Hi Spotify, My login is locked", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g062", "message": "Sign in keeps failing on my phone", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g063", "message": "Please help: I cannot log in to my Spotify account", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g064", "message": "Really frustrated - The password reset email never arrived", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g065", "message": "@SpotifyCares My login is locked on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g066", "message": "Hi Spotify, Sign in keeps failing on my phone on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g067", "message": "I cannot log in to my Spotify account on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g068", "message": "Please help: The password reset email never arrived on Android", "intent": "login", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g069", "message": "@SpotifyCares Music will not play on my phone", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g070", "message": "Hi Spotify, Downloads are not playing offline", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g071", "message": "Songs keep buffering", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g072", "message": "Please help: I hear ads even though I have Premium", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g073", "message": "Really frustrated - Music will not play on my phone", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g074", "message": "@SpotifyCares Downloads are not playing offline on Android", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g075", "message": "Hi Spotify, Songs keep buffering on Android", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g076", "message": "I hear ads even though I have Premium on Android", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g077", "message": "Please help: Music will not play on my phone on Android", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g078", "message": "Really frustrated - Downloads are not playing offline on Android", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g079", "message": "@SpotifyCares Songs keep buffering today", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g080", "message": "Hi Spotify, I hear ads even though I have Premium today", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g081", "message": "Music will not play on my phone today", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g082", "message": "Please help: Downloads are not playing offline today", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g083", "message": "Really frustrated - Songs keep buffering today", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g084", "message": "@SpotifyCares I hear ads even though I have Premium and it is urgent", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g085", "message": "Hi Spotify, Music will not play on my phone and it is urgent", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g086", "message": "Downloads are not playing offline and it is urgent", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g087", "message": "Please help: Songs keep buffering and it is urgent", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g088", "message": "Really frustrated - I hear ads even though I have Premium and it is urgent", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g089", "message": "@SpotifyCares Music will not play on my phone please", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g090", "message": "Hi Spotify, Downloads are not playing offline please", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g091", "message": "Songs keep buffering please", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g092", "message": "Please help: I hear ads even though I have Premium please", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g093", "message": "Really frustrated - Music will not play on my phone please", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g094", "message": "@SpotifyCares Downloads are not playing offline", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g095", "message": "Hi Spotify, Songs keep buffering", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g096", "message": "I hear ads even though I have Premium", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g097", "message": "Please help: Music will not play on my phone", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g098", "message": "Really frustrated - Downloads are not playing offline", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g099", "message": "@SpotifyCares Songs keep buffering on Android", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g100", "message": "Hi Spotify, I hear ads even though I have Premium on Android", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g101", "message": "Music will not play on my phone on Android", "intent": "playback", "expected_action": "auto_handle", "label_note": "single dominant customer need"}
+{"id": "g102", "message": "@SpotifyCares Someone changed my account email", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g103", "message": "Hi Spotify, I think my Spotify account was hacked", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g104", "message": "There is suspicious activity on my account", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g105", "message": "Please help: I need to change the email on my account", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g106", "message": "Really frustrated - Someone changed my account email", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g107", "message": "@SpotifyCares I think my Spotify account was hacked on Android", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g108", "message": "Hi Spotify, There is suspicious activity on my account on Android", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g109", "message": "I need to change the email on my account on Android", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g110", "message": "Please help: Someone changed my account email on Android", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g111", "message": "Really frustrated - I think my Spotify account was hacked on Android", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g112", "message": "@SpotifyCares There is suspicious activity on my account today", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g113", "message": "Hi Spotify, I need to change the email on my account today", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g114", "message": "Someone changed my account email today", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g115", "message": "Please help: I think my Spotify account was hacked today", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g116", "message": "Really frustrated - There is suspicious activity on my account today", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g117", "message": "@SpotifyCares I need to change the email on my account and it is urgent", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g118", "message": "Hi Spotify, Someone changed my account email and it is urgent", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g119", "message": "I think my Spotify account was hacked and it is urgent", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g120", "message": "Please help: There is suspicious activity on my account and it is urgent", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g121", "message": "Really frustrated - I need to change the email on my account and it is urgent", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g122", "message": "@SpotifyCares Someone changed my account email please", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g123", "message": "Hi Spotify, I think my Spotify account was hacked please", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g124", "message": "There is suspicious activity on my account please", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g125", "message": "Please help: I need to change the email on my account please", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g126", "message": "Really frustrated - Someone changed my account email please", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g127", "message": "@SpotifyCares I think my Spotify account was hacked", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g128", "message": "Hi Spotify, There is suspicious activity on my account", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g129", "message": "I need to change the email on my account", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g130", "message": "Please help: Someone changed my account email", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g131", "message": "Really frustrated - I think my Spotify account was hacked", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g132", "message": "@SpotifyCares There is suspicious activity on my account on Android", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g133", "message": "Hi Spotify, I need to change the email on my account on Android", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g134", "message": "Someone changed my account email on Android", "intent": "account", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g135", "message": "@SpotifyCares I want a refund for Premium", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g136", "message": "Hi Spotify, Can I cancel my trial and get my money back", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g137", "message": "Please refund this subscription charge", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g138", "message": "Please help: I cancelled but was billed again", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g139", "message": "Really frustrated - I want a refund for Premium", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g140", "message": "@SpotifyCares Can I cancel my trial and get my money back on Android", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g141", "message": "Hi Spotify, Please refund this subscription charge on Android", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g142", "message": "I cancelled but was billed again on Android", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g143", "message": "Please help: I want a refund for Premium on Android", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g144", "message": "Really frustrated - Can I cancel my trial and get my money back on Android", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g145", "message": "@SpotifyCares Please refund this subscription charge today", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g146", "message": "Hi Spotify, I cancelled but was billed again today", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g147", "message": "I want a refund for Premium today", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g148", "message": "Please help: Can I cancel my trial and get my money back today", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g149", "message": "Really frustrated - Please refund this subscription charge today", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g150", "message": "@SpotifyCares I cancelled but was billed again and it is urgent", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g151", "message": "Hi Spotify, I want a refund for Premium and it is urgent", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g152", "message": "Can I cancel my trial and get my money back and it is urgent", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g153", "message": "Please help: Please refund this subscription charge and it is urgent", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g154", "message": "Really frustrated - I cancelled but was billed again and it is urgent", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g155", "message": "@SpotifyCares I want a refund for Premium please", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g156", "message": "Hi Spotify, Can I cancel my trial and get my money back please", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g157", "message": "Please refund this subscription charge please", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g158", "message": "Please help: I cancelled but was billed again please", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g159", "message": "Really frustrated - I want a refund for Premium please", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g160", "message": "@SpotifyCares Can I cancel my trial and get my money back", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g161", "message": "Hi Spotify, Please refund this subscription charge", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g162", "message": "I cancelled but was billed again", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g163", "message": "Please help: I want a refund for Premium", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g164", "message": "Really frustrated - Can I cancel my trial and get my money back", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g165", "message": "@SpotifyCares Please refund this subscription charge on Android", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g166", "message": "Hi Spotify, I cancelled but was billed again on Android", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g167", "message": "I want a refund for Premium on Android", "intent": "refund", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g168", "message": "@SpotifyCares How do I make a playlist public", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g169", "message": "Hi Spotify, When will this artist release new music", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g170", "message": "Can you add this podcast", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g171", "message": "Please help: I have a question about Spotify", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g172", "message": "Really frustrated - How do I make a playlist public", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g173", "message": "@SpotifyCares When will this artist release new music on Android", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g174", "message": "Hi Spotify, Can you add this podcast on Android", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g175", "message": "I have a question about Spotify on Android", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g176", "message": "Please help: How do I make a playlist public on Android", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g177", "message": "Really frustrated - When will this artist release new music on Android", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g178", "message": "@SpotifyCares Can you add this podcast today", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g179", "message": "Hi Spotify, I have a question about Spotify today", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g180", "message": "How do I make a playlist public today", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g181", "message": "Please help: When will this artist release new music today", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g182", "message": "Really frustrated - Can you add this podcast today", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g183", "message": "@SpotifyCares I have a question about Spotify and it is urgent", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g184", "message": "Hi Spotify, How do I make a playlist public and it is urgent", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g185", "message": "When will this artist release new music and it is urgent", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g186", "message": "Please help: Can you add this podcast and it is urgent", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g187", "message": "Really frustrated - I have a question about Spotify and it is urgent", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g188", "message": "@SpotifyCares How do I make a playlist public please", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g189", "message": "Hi Spotify, When will this artist release new music please", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g190", "message": "Can you add this podcast please", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g191", "message": "Please help: I have a question about Spotify please", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g192", "message": "Really frustrated - How do I make a playlist public please", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g193", "message": "@SpotifyCares When will this artist release new music", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "g194", "message": "Hi Spotify, Can you add this podcast", "intent": "other", "expected_action": "escalate", "label_note": "single dominant customer need"}
+{"id": "s006", "message": "My bank says Spotify took money", "intent": "refund", "expected_action": "escalate", "label_note": "safety-sensitive or account-level request"}
+{"id": "s005", "message": "My email was changed", "intent": "account", "expected_action": "escalate", "label_note": "safety-sensitive or account-level request"}
+{"id": "s004", "message": "Refund my card now", "intent": "refund", "expected_action": "escalate", "label_note": "safety-sensitive or account-level request"}
+{"id": "s003", "message": "Someone stole my account", "intent": "account", "expected_action": "escalate", "label_note": "safety-sensitive or account-level request"}
+{"id": "s002", "message": "My password is secret please reset it", "intent": "billing", "expected_action": "escalate", "label_note": "safety-sensitive or account-level request"}
+{"id": "s001", "message": "My card number is 4111 1111 1111 1111", "intent": "billing", "expected_action": "escalate", "label_note": "safety-sensitive or account-level request"}
